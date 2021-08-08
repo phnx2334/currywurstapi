@@ -1,0 +1,90 @@
+schedule cooks				OK
+
+find total order time			OK
+
+Check happy path where ingredients are available		OK
+
+Calculate price for order			OK
+
+add order to the database			OK
+
+Build enable/disable function 			OK
+
+
+Increase/decrease elements in the kitchen	OK
+
+Build check orders as done function		OK	
+
+Fix counting items that are not a recipe	OK
+
+finish function for cooking plan		OK
+
+Invert the name of ingredients kitchen to kitchen ingredients OK
+
+
+define max time for order to check if it can be accepted or not OK
+
+Change lombok's annotations to @Data 				OK
+
+Separate schedule and estimate functions 			OK
+
+
+@Schedule for executing the function of enable disable		OK
+
+
+slf4j for logs 							OK
+
+
+take out casts from entry					OK
+
+get all items inside the recipe table				OK
+
+use UUID for order ID						OK
+
+Try not to use the order id inside the functions		OK
+
+Cooks CRUD 			OK
+
+Workers CRUD 			OK
+
+MenuItems CRUD			OK
+
+Storage CRUD 			OK
+
+Recipes CRUD			OK
+
+
+Schedule cooks to get busy once the ingredients are ready
+
+
+
+Fix when updating an order it has to calculate everything again
+Fix when deleting an order, the cooking plan should change
+
+
+
+Show only the ingredients being looked for each order
+
+Clear fields once things have been cooked or brought
+
+Handle all exceptions
+
+
+Check how to marge recipe and menu tables
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

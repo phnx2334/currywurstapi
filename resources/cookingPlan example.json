@@ -1,0 +1,18 @@
+{
+    "deliveryTime":45,
+    "price":34,
+    "workersPlan": {
+        "tom":"cebolla, tomate, peras",
+        "ana": "onion,pears,avocado"
+    },
+    "cooksPlan":{
+        "kennan": "pabellon",
+        "hannah": "curry wurst"
+    },
+    "beginTimeToCook":"15:45",
+    "Order Items":{
+        "cocacola": 25,
+        "Herzhafte Chinakohl-Wurst-Pfanne": 1,
+        "Kraut-Wurst-Pfanne": 2
+    }
+}
